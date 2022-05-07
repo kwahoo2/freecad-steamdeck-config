@@ -1,0 +1,2 @@
+Put these files in:
+/home/deck/.FreeCAD/

@@ -1,0 +1,4 @@
+Put these files in:
+/home/deck/.local/share/Steam/steamapps/common/Steam Controller Configs/[user-id]/config/
+
+Assuming 'freecad' executable.
